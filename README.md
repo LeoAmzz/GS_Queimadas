@@ -1,6 +1,6 @@
 Leonardo A. RM: 553372
 Gustavo F. RM: 554242
-Gustavo B. RM: 553493![image](https://github.com/user-attachments/assets/c120c0f9-f87b-44e2-9b2c-96cb798c5e9d)
+Gustavo B. RM: 553493
 
 
 # Wildfire Monitoring System
